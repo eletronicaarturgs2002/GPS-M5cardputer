@@ -13,6 +13,11 @@ Este projeto transforma o **M5Stack Cardputer** em um monitor GPS multifuncional
   - Velocidade atual em km/h.
   - Rumo/Direção por extenso (Norte, Sul, Sudeste, etc.).
   - Resumo de coordenadas para referência rápida.
+ 
+  - **Odômetro Digital (Novo!):**
+  - Cálculo de distância percorrida em tempo real.
+  - Alternância automática entre Metros e Quilômetros.
+  - Função de Reset manual pressionando a tecla 'R'.
 
 - **Página 3: Qualidade do Sinal**
   - Contador de satélites ativos.
