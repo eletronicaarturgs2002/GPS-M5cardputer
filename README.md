@@ -51,4 +51,5 @@ Este projeto transforma o **M5Stack Cardputer** em um monitor GPS multifuncional
 > [!TIP]
 > Use a tecla **'M'** para alternar entre as visualizações de dados, navegação e status do sinal.
 
+
 ![WhatsApp Image 2026-02-16 at 21 00 30](https://github.com/user-attachments/assets/973fa05e-570c-426c-90de-4deb9fa5743d)
